@@ -1,0 +1,16 @@
+$white = #ffff;
+$tablet = "only screen and (min-width:900px)";
+
+
+
+.name {
+  margin-top: 10px;
+
+  :hover{
+
+  }
+    .name-header{
+        margin-top:20px;
+        color: $white;
+    }
+}
